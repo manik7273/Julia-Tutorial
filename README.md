@@ -27,4 +27,4 @@ Pkg.update (for updating a package)
 Pkg.test (for testing a package)
 Pkg.remove (for removing a package)
 know more .....run pkg help command in julia.
-                                                                                      MANIK RAJ
+                                                                                      MANIK RAJ.
